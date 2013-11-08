@@ -1,0 +1,11 @@
+main: co.jdallas.Nyan.Nyan
+name: Nyan
+version: 1.0
+commands:
+   nyan:
+      description: The Nyan Command
+permissions:
+  Nyan.Self:
+    description: Allows the use of /nyan on yourself
+  Nyan.Other:
+    description: Allows the use of /nyan on others
